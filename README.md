@@ -9,28 +9,13 @@ Creo firmemente en el valor del trabajo en equipo. Considero que la colaboració
 Estoy emocionado por lo que el futuro tiene reservado y siempre estoy buscando nuevas oportunidades y desafíos. ¡Siéntete libre de contactarme si deseas colaborar, tienes un problema interesante para resolver o simplemente quieres decir hola!
 
 ## 🔧 Tecnologías y habilidades
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
-## 📈 Mis estadísticas de GitHub
-
-![Mis estadísticas de Github](https://github-readme-stats.vercel.app/api?username=Alex-tintor&show_icons=true)
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/SQL-%2300255B?logo=sql&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Java-%23007396?logo=java&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Ajax-%23FDD023?logo=ajax&logoColor=black&style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/jQuery-%230769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40"/>
 
 ## 📫 Contacto
 
 Puedes encontrarme y contactarme en:
 
-- Twitter: [@tu_usuario_de_twitter](https://twitter.com/tu_usuario_de_twitter)
+- WhatsApp: [Alexis Morales](wa.link/atlae4)
 - LinkedIn: [Tu nombre](https://linkedin.com/in/tu_nombre_de_usuario)
 
 ¿Te gustaría colaborar en un proyecto? ¿Tienes un problema desafiante para resolver? ¡Siempre estoy abierto a nuevas oportunidades, así que no dudes en decir hola!
